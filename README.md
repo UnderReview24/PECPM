@@ -12,6 +12,8 @@ Code for **Pattern Expansion and Consolidation on Evolving Graphs for Continual 
 
 Download raw data from [this](https://drive.google.com/file/d/1P5wowSaNSWBNCK3mQwESp-G2zsutXc5S/view?usp=sharing), unzip the file and put it in the `data` folder
 
+Downlaod daily data (daily.rar) from [this]([https://drive.google.com/file/d/1P5wowSaNSWBNCK3mQwESp-G2zsutXc5S/view?usp=sharing](https://pan.baidu.com/s/1b82oVrjD1hNhFbP8wVqmkQ)), code is 8rcy.
+
 ### Usages
 
 * Data Process
@@ -28,5 +30,5 @@ python main.py --conf conf/PECMP.json --gpuid 1
 ```
 Select conflicting and stable nodes to evaluate performance.
 ```
-
-
+### Note
+Our model includes temporal embeddings. If you plan to port the code to another framework, please add them accordingly.
