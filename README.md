@@ -18,7 +18,7 @@ Downlaod daily data (daily.rar) from [this](https://pan.baidu.com/s/1X8pokf421pD
 
 * Data Process
 ```
-Download attention data from [this](https://pan.baidu.com/s/1JRuYBT0RsRaF11-QI8soKg), Code is mm7w, and unzip the file and put it in the `data` folder
+Download attention data from [this](https://pan.baidu.com/s/1IiArjj7jbbspAMzoI5xY4w), Code is xrwi, and unzip the file and put it in the `data` folder
 ```
 
 * PECMP
